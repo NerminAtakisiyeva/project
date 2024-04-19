@@ -1,0 +1,10 @@
+.link {
+    padding: 10px 10px;
+    color: #939CAA;
+    text-decoration: none;
+}
+
+.active {
+    background-color: blue;
+}
+
